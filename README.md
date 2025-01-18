@@ -25,10 +25,10 @@ A Python-based calculator that allows the user to perform a variety of arithmeti
    
 2. Make sure you have Python 3 installed on your system.
 
-3. If you want to run the program on your local machine, just execute the `calculator.py` script.
+3. If you want to run the program on your local machine, just execute the `GC.py` script.
 
    ```bash
-   python calculator.py
+   python GC.py
    ```
 
 ## Usage
