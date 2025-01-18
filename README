@@ -1,0 +1,21 @@
+# General Calculator
+
+A simple calculator program that performs various arithmetic and statistical operations.
+
+## Features
+
+- Supports basic arithmetic operations: addition (+), subtraction (-), multiplication (*), division (/), exponentiation (**)
+- Calculates Body Mass Index (BMI)
+- Performs statistical operations: max, min, sum, mean, median, mode, range, and dispersion (variance and standard deviation)
+- Enables input of numbers separated by commas for statistical analysis.
+
+## Usage
+1. Run the program and select an operation from the menu.
+2. Enter the required inputs when prompted, based on your chosen operation.
+3. The program will display the result of the operation.
+4. You can continue performing operations or exit the program by entering "Stop".
+
+## Operations
+- Arithmetic Operations: You can perform addition, subtraction, multiplication, division, exponentiation, and find roots.
+- BMI Calculation: Input your height (in meters) and weight (in kilograms) to calculate your BMI.
+- Other Statistics: Choose from operations like Max, Min, Sum, Range, Sort, Central (Mean, Median, Mode), and Dispersion (Variance, Standard Deviation).
