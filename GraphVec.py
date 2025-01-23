@@ -152,7 +152,6 @@ class Graphvector:
         ax.set_xlim(min_ - buffer , max_ + buffer)
         ax.set_ylim(min_ - buffer , max_ + buffer)
 
-    def draw(self):
         # Drawing method.
         # Drawing the central axes.
         ax.axhline(0, color='black', linewidth= 1.2, linestyle='-')  # X-axis
