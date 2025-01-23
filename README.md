@@ -1,6 +1,6 @@
 # GraphVec
 
-A Python-based Vector calculator library that allows the user to perform a variety of calculations, including the abitily to visualize them with mathplotlib.
+A Python-based Vector library that allows the user to perform a variety of calculations, including the abitily to visualize vectors with mathplotlib.
 
 ## Features
 
@@ -20,7 +20,7 @@ A Python-based Vector calculator library that allows the user to perform a varie
    
 2. Make sure you have Python 3 installed on your system and matplotlib is supported(is installed).
 
-3. If you want to run the program on your local area, just import the `GraphVec.py` script.
+3. If you want to run the program on your local machine, just import the `GraphVec.py` script.
 
    ```bash
    import GraphVec.py
