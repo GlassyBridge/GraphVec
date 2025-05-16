@@ -59,8 +59,8 @@ This library allows you to add two custom created vector objects.
                'k':k}
    GraphVector(dict = vectors)
    ```
-## Coming soon
-- A console based interaction to this library.
+## Update
+- A console based interaction to this library in the Console_GraphVec.py file.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
